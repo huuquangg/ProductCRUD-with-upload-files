@@ -1,2 +1,2 @@
-# cpy-javaSpring-proj2
+# javaSpring-proj2
 -  Product CRUD and uploading file(img) but file not work effectively.
